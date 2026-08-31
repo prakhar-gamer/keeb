@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "custom") (type "KiCad") (uri "C:/Users/rakhs/Documents/keep/custom.pretty") (options "") (descr ""))
+)

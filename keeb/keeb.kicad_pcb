@@ -361,6 +361,17 @@
 			(uuid "0c2ad3f6-a981-4640-b481-ad13b575d3cb")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -1844,6 +1855,17 @@
 			(uuid "c240ed9c-fbf9-4a44-b939-c1ee32eddef6")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:STAB_MX_2.25u"
 		(layer "F.Cu")
@@ -3442,6 +3464,17 @@
 			(uuid "ce2baefa-aac0-4092-9b3e-2ca921628597")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -3799,12 +3832,6 @@
 		(path "/7e1c20ac-79cb-4c8a-9391-beed950b9c55")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4026,6 +4053,17 @@
 			(uuid "58b15f26-e657-44b4-8666-965a578fb484")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -4301,6 +4339,17 @@
 			(uuid "16e393e6-7c42-4441-af7e-629f7774b337")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -4576,6 +4625,17 @@
 			(uuid "c8806d4a-2384-437d-b35c-2eda03cab6fd")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -4851,6 +4911,17 @@
 			(uuid "46557997-9ab5-419b-9632-388309c55225")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -6334,6 +6405,17 @@
 			(uuid "25533967-a334-4166-85e5-9bd1a8f23e35")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -6911,6 +6993,17 @@
 			(uuid "bf22bf30-35f2-4446-a5da-9ed3b1d8b91d")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-various:ROT_Alps_EC11E-Switch"
 		(layer "F.Cu")
@@ -7623,12 +7716,6 @@
 		(path "/45821f3c-487f-4a39-91b5-2bef09f6a140")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7850,6 +7937,17 @@
 			(uuid "da5fbfaf-5bed-4056-b439-3896551a2cbb")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -7905,12 +8003,6 @@
 		(path "/a53957f2-64b4-491c-bc2c-e4b10d66d8dc")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8132,6 +8224,17 @@
 			(uuid "1f782176-faac-4c56-8c7d-061cfb034e42")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -8407,6 +8510,17 @@
 			(uuid "df57d3fa-2eac-4cfa-82a8-983de57c7f80")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -8682,6 +8796,17 @@
 			(uuid "d4be5a35-fa00-4030-8a94-488390b88bbc")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -8957,6 +9082,17 @@
 			(uuid "77bfb7a7-fb56-401c-8438-607128584af7")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -9314,12 +9450,6 @@
 		(path "/1d1e5aad-7ea5-44c2-b983-f2134527b4e7")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9541,6 +9671,17 @@
 			(uuid "356c3213-ff38-4da6-b03a-872796c501bc")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -10722,6 +10863,17 @@
 			(uuid "0049514e-714b-404a-a6a1-849529a175e6")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -11381,12 +11533,6 @@
 		(path "/b3d7713b-ac19-44b7-906e-02778d50899f")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11608,6 +11754,17 @@
 			(uuid "2cc03367-d8d0-4fac-b740-ff8a2e7d9a0f")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -12185,6 +12342,17 @@
 			(uuid "05612745-97ca-4d89-ab9e-63951e3b88ed")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -12762,6 +12930,17 @@
 			(uuid "735cab1c-a702-4299-b284-4b1094681b52")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -13037,6 +13216,17 @@
 			(uuid "7ff96e31-5f4d-47fc-8c63-6d9bf97d1426")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -13394,12 +13584,6 @@
 		(path "/8ebfdb0f-b63e-4035-97c8-92e01b65c953")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13621,6 +13805,17 @@
 			(uuid "5ed1be9e-db48-4a94-87c9-1ceecc4076e1")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -13896,6 +14091,17 @@
 			(uuid "7c982d4f-f628-4075-8557-de97851ff9ed")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -14473,6 +14679,17 @@
 			(uuid "21903cb6-d002-4871-b61e-b9c7f1abe1de")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -14748,6 +14965,17 @@
 			(uuid "7fafbb51-29eb-4e2e-b4e8-e8d28037e758")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -16533,6 +16761,17 @@
 			(uuid "e5cdb553-8806-4e8d-a5d9-8a9855f95137")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -16808,6 +17047,17 @@
 			(uuid "3cb41679-6ff9-468c-965f-362d3deae036")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -16863,12 +17113,6 @@
 		(path "/0a34c7f7-698e-4ec9-b418-69a64b24ad8c")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17090,6 +17334,17 @@
 			(uuid "15b74b9f-eab9-4145-a12d-82caecbfe96c")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -17667,6 +17922,17 @@
 			(uuid "3d60f573-bfdd-4ee9-8a11-ba2801c6cb5d")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -17942,6 +18208,17 @@
 			(uuid "08b4bcb1-70d2-4213-93f4-91cd3576c690")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -18217,6 +18494,17 @@
 			(uuid "d3710d27-b7e3-4f01-a886-baa25ff44ccc")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -18876,12 +19164,6 @@
 		(path "/47db21cf-36b0-484c-8bdf-8cd3bc6df92d")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19103,6 +19385,17 @@
 			(uuid "f3101427-9815-4ec7-8861-674594736a2c")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -19378,6 +19671,17 @@
 			(uuid "463a02d2-eafc-4173-ad6e-903a67c749cd")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -19433,12 +19737,6 @@
 		(path "/203382c2-0b8f-4674-9acb-105b984dc054")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19660,6 +19958,17 @@
 			(uuid "2bdc12f6-9350-4682-8d81-9ff55f75a837")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -20923,12 +21232,6 @@
 		(path "/326d0052-0494-48a7-9ced-cdd4002dea46")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21150,6 +21453,17 @@
 			(uuid "d7cec2d4-1f1e-4e33-b82c-0203bc98c002")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -21507,12 +21821,6 @@
 		(path "/dac0392c-7461-465d-bd5d-c0d58c4dd3fc")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21734,6 +22042,17 @@
 			(uuid "b5b0ded4-5d38-445d-a2b1-ab414502e789")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -21789,12 +22108,6 @@
 		(path "/4fc01749-839b-4230-9efa-54f23f1dbff4")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22016,6 +22329,17 @@
 			(uuid "6ab200cc-91e5-41ac-adb1-4527660f1ac5")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -23197,6 +23521,17 @@
 			(uuid "0562f72e-8fca-4fdf-9b13-4f0b69625aa1")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -30733,6 +31068,17 @@
 			(uuid "4d78ed7d-3ca6-47e7-8c8e-871838ef8a54")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -31008,6 +31354,17 @@
 			(uuid "1bcfa369-91f5-490f-a89e-459dc0c437eb")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -31283,6 +31640,17 @@
 			(uuid "f52bb7e4-280e-4018-9b80-93cfc0e834ea")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -31558,6 +31926,17 @@
 			(uuid "dc3924ed-bbd4-4d87-b5b8-0d2e2e5b63a9")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:STAB_MX_2.75u"
 		(layer "F.Cu")
@@ -32854,6 +33233,17 @@
 			(uuid "3b0bafd1-59d5-4587-a860-f959afecdf0d")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -33129,6 +33519,17 @@
 			(uuid "fa444736-cf09-44dd-a0ff-a131b8da51d5")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -33404,6 +33805,17 @@
 			(uuid "a5eec676-c1d0-4843-b0fe-45f6b9fd0468")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -33679,6 +34091,17 @@
 			(uuid "14523271-7d0c-4473-b1e4-4613e9d5eec1")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -34256,6 +34679,17 @@
 			(uuid "d347fcba-c2e9-4f60-b17e-a776091e104e")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -34915,12 +35349,6 @@
 		(path "/272681e7-f5fb-413d-a844-748419a05448")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35142,6 +35570,17 @@
 			(uuid "c6a40027-17ba-4487-96f5-58b167b52d0c")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -35719,6 +36158,17 @@
 			(uuid "2981377a-f1ef-4d53-ba3b-990bd16d2c5a")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -35994,6 +36444,17 @@
 			(uuid "408da5b5-3f8c-4c90-a2dd-bfaf4096a38c")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -36269,6 +36730,17 @@
 			(uuid "98d8b105-d0da-46ce-a936-be2e4e4db57a")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -36544,6 +37016,17 @@
 			(uuid "d13179ad-d08c-4474-aff3-012bc93fe1d8")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -37121,6 +37604,17 @@
 			(uuid "e46460ed-b97d-49cf-a8fa-b6c13f876e5c")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:STAB_MX_2u"
 		(layer "F.Cu")
@@ -37813,6 +38307,17 @@
 			(uuid "8c68050b-6b05-47f2-8cad-51f51af0c757")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -38170,12 +38675,6 @@
 		(path "/8a7c0ff7-38fc-46cc-bb9a-dcc8a0140840")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38397,6 +38896,17 @@
 			(uuid "0ca5c5f6-26b4-47dd-8c50-290bfc7dd418")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -38672,6 +39182,17 @@
 			(uuid "7c3884a4-a363-4254-bdaa-fb82716f087b")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -38947,6 +39468,17 @@
 			(uuid "61ce8750-7149-4f23-b8de-b824ad678dc1")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -39002,12 +39534,6 @@
 		(path "/254d7d72-bd4e-4a03-a815-e2250844a7da")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39229,6 +39755,17 @@
 			(uuid "6ed016b9-86a6-4b11-a358-028da8f12210")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
@@ -39504,6 +40041,17 @@
 			(uuid "417bdfa9-7d25-4fad-ba62-da60216381c8")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -40882,12 +41430,6 @@
 		(path "/c54f91d3-885d-48dc-9582-b2a23fb41cff")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41109,6 +41651,17 @@
 			(uuid "a0d25572-dee1-44f9-bed6-5d8900c0dcd5")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
@@ -42976,12 +43529,6 @@
 		(path "/82b999d8-9659-4460-88cb-18c6d3b49296")
 		(sheetname "/")
 		(sheetfile "keeb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43203,6 +43750,17 @@
 			(uuid "8b2147bb-cb83-43a9-a398-76207d331fe0")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/rakhs/Downloads/Kailh Polia.step"
+			(offset
+				(xyz 0 0 5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "PCM_marbastlib-mx:STAB_MX_2.25u"
 		(layer "F.Cu")
